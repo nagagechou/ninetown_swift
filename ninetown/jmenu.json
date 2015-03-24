@@ -1,0 +1,28 @@
+[
+ { "id":"info",
+    "titleInfo":"新化簡介",
+    "titleImg":"",
+    "items":[
+             {  "id":"info_001",
+                "name":"大目降的由來",
+                "icon":"",
+                "link_content":"",
+                "url":""
+             },
+             {
+                "id":"info_002",
+                "name":"人文薈萃",
+                "icon":"",
+             
+                "url":""
+             },
+             
+             {
+                "id":"info_003",
+                "name":"在地風情",
+                "icon":"",
+                "url":""
+             }
+            ]
+ }
+]
